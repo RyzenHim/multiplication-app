@@ -63,6 +63,8 @@ nav {
   border-radius: 3px;
   border: none;
   text-align: center;
+  background-color: transparent;
+  color: white;
 }
 .input:focus {
   outline: none;
